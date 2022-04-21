@@ -1,0 +1,55 @@
+body{
+    
+
+    
+}
+.login{
+    
+    
+    font-weight:lighter;
+    font-size: 20px;
+
+    line-height: 82px; 
+    color: rgba(53, 74, 89, 0.37);
+    
+    position: absolute;
+    
+    height: 83px;
+    left: 100px;
+    top: 42px;
+
+
+}
+.brackets{
+    
+    position: absolute;
+    width: 152px;
+    height: 25px;
+    left: 261px;
+    top: 75px;
+    
+    font-family: Arial, 'Times New Roman', Verdana;;
+    font-style: normal;
+    font-weight: 300px;;
+    font-size: 14px;
+    line-height: 24px;
+
+    color: #605E5E;
+}
+
+
+.email{
+    
+position: absolute;
+width: 84px;
+height: 45px;
+left: 92px;
+top: 168px;
+
+font-family: Arial, 'Times New Roman', Verdana; 
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 45px;
+color: #605E5E;
+}
